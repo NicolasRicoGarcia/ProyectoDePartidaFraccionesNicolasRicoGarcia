@@ -16,15 +16,15 @@ public class Fraccion {
  * 	Añadir las siguientes operaciones a Fracción
  * 
  * 
- * 
+ */
 	public static Fraccion simplifica(Fraccion entrada) {
+		//modificar para que simplifique fracciones
+		return entrada;
 	}
-	*/
-	//merge de sumaFracciones
+	/*
+
 	public static Fraccion suma(Fraccion sumando1, Fraccion sumando2) {
-		//modificamos esto en la rama sumaFracciones para la suma
-		Fraccion resultado= sumando2 + sumando1;
-		return resultado;
+
 	}
 	/*
 	public static Fraccion multiplicacion(Fraccion sumando1, Fraccion sumando2) {
