@@ -17,6 +17,7 @@ public class Fraccion {
  * 
  * 
  */
+	//el contenido de simplifica fracciones en develop
 	public static Fraccion simplifica(Fraccion entrada) {
 //cambiamos esto para que simplifique fracciones con este comentario
 		return entrada;
