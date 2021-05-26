@@ -20,6 +20,7 @@ public class Fraccion {
 	public static Fraccion simplifica(Fraccion entrada) {
 	}
 	*/
+	//merge de sumaFracciones
 	public static Fraccion suma(Fraccion sumando1, Fraccion sumando2) {
 		//modificamos esto en la rama sumaFracciones para la suma
 		Fraccion resultado= sumando2 + sumando1;
