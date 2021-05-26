@@ -16,10 +16,9 @@ public class Fraccion {
  * 	Añadir las siguientes operaciones a Fracción
  * 
  * 
- */
+ *
 	public static Fraccion simplifica(Fraccion entrada) {
-		//modificar para que simplifique fracciones
-		return entrada;
+
 	}
 	/*
 
