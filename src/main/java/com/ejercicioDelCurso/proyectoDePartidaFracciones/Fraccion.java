@@ -23,7 +23,7 @@ public class Fraccion {
 		return entrada;
 	}
 	/**/
-
+//el contenido de sumaFracciones en develop
 	public static Fraccion suma(Fraccion sumando1, Fraccion sumando2) {
 // hacemos cambios para que aqui se sumen fracciones
 		Fraccion suma=sumando1+sumando2;
