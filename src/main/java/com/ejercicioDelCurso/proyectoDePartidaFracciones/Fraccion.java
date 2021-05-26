@@ -22,10 +22,12 @@ public class Fraccion {
 //cambiamos esto para que simplifique fracciones con este comentario
 		return entrada;
 	}
-	/*
+	/*/
 
 	public static Fraccion suma(Fraccion sumando1, Fraccion sumando2) {
-
+// hacemos cambios para que aqui se sumen fracciones
+		Fraccion suma=sumando1+sumando2;
+		return suma;
 	}
 	/*
 	public static Fraccion multiplicacion(Fraccion sumando1, Fraccion sumando2) {
