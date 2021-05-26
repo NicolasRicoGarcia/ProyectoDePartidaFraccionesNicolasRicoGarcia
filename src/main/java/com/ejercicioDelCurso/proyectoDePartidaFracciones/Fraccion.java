@@ -17,6 +17,7 @@ public class Fraccion {
  * 
  * 
  */
+	//merge de simplificarFracciones a develop
 	public static Fraccion simplifica(Fraccion entrada) {
 		//modificamos esto en la rama simplificaFraciones para que simplifique fracciones
 		return entrada;
